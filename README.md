@@ -1,4 +1,3 @@
-### Hi there 👋
 <img alt="background" src="src\images\background.jpg"/>
 
 <!--
